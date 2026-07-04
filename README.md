@@ -1,49 +1,68 @@
-<h1 align="center">Hi, I'm Kesani Saicharan 👋</h1>
+<h1 align="center">Hi 👋, I'm Kesani Sai Charan</h1>
+<h3 align="center">🚀 Aspiring Software Development Engineer | AI & GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=VIT+Student+%7C+CS+Engineer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Hackathon+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=VIT+Student+%7C+CS+Engineer;AI+%2F+ML+Builder;Full+Stack+Developer;Hackathon+Enthusiast" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science @ **Vellore Institute of Technology (VIT)**
-- 🤖 Passionate about **AI/ML**, **Full Stack Development**, and **Hackathons**
-- 🏗️ I love building end-to-end projects — from model to deployment
-- 💡 Currently exploring **Deep Learning** and **Generative AI**
-- 📝 Working on: AI-Powered Kirana Cash Flow Underwriting
-
----
-
-## 🛠️ Tech Stack
-
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌟 About Me
+- 🎓 B.Tech in **Computer Science and Engineering** @ **Vellore Institute of Technology (VIT)**
+- 🤖 Passionate about **Generative AI, Machine Learning & Deep Learning**
+- 💻 Full Stack Developer building end-to-end applications
+- 🏆 Hackathon Enthusiast who loves turning complex ideas into functional code
+- 📝 Currently working on **AI-Powered Kirana Cash Flow Underwriting**
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🏪 AI Kirana Underwriting](https://github.com/Kesanisaicharan/AI-POWERED-KIRANA-REMOTE-CASH-FLOW-UNDERWRITING) | AI-based cash flow analysis for kirana store credit | Python, ML |
-| [🎬 Movie Recommender](https://github.com/Kesanisaicharan/Content_based_Recommendation_System) | Content-based movie recommendation using TMDb API | Python, Streamlit |
-| [🎲 GAN - MNIST](https://github.com/Kesanisaicharan/-Generative-Adversarial-Network) | GAN trained on 70k MNIST images to generate digits | Jupyter, TF |
-| [🌐 Web Portfolio](https://github.com/Kesanisaicharan/Web-portfolio) | Personal portfolio website | HTML, CSS |
-| [🔮 XRP Prediction](https://github.com/Kesanisaicharan/AI-ML-PROJECT) | XRP cryptocurrency return prediction model | Jupyter |
+#### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
+
+#### 🌐 Web Development & Databases
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
+
+#### 🤖 AI / ML & Data Science
+- **Frameworks:** TensorFlow | Scikit-learn | PyTorch | Streamlit
+- **Concepts & Tools:** Deep Learning | Generative AI | LLMs | Groq API | Jupyter Notebooks
+
+#### ⚙️ Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+🔹 **SolarShield™ — Autonomous Passive Thermal Management**
+- Built an interactive, zero-power cooling system demonstration for parked vehicles.
+- Uses cinematic HTML5 Canvas renderers and audio synthesis for real-time telemetry.
+- [🔗 View Repo](https://github.com/Kesanisaicharan/solarshield_presentation)
+
+🔹 **AI Kirana Underwriting**
+- Developed a machine learning model for cash flow analysis and credit underwriting for Kirana stores.
+- Built end-to-end pipelines to assess credit risks.
+- [🔗 View Repo](https://github.com/Kesanisaicharan/AI-POWERED-KIRANA-REMOTE-CASH-FLOW-UNDERWRITING)
+
+🔹 **NOC PDF Generator**
+- An interactive web application designed to generate official No Objection Certificates.
+- Integrates frontend PDF rendering libraries to export print-ready PDFs.
+- [🔗 View Repo](https://github.com/Kesanisaicharan/noc-generator)
+
+🔹 **Movie Recommender System**
+- Content-based recommendations using the TMDb API.
+- Implemented Streamlit for a smooth and responsive web interface.
+- [🔗 View Repo](https://github.com/Kesanisaicharan/Content_based_Recommendation_System)
+
+🔹 **MNIST Digit Generation (GAN)**
+- Built a Generative Adversarial Network trained on the 70,000 MNIST dataset.
+- Successfully generated high-fidelity synthetic digit images.
+- [🔗 View Repo](https://github.com/Kesanisaicharan/-Generative-Adversarial-Network)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kesanisaicharan&show_icons=true&theme=tokyonight" height="160"/>
@@ -52,13 +71,15 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesani-sai-charan-28a70328a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kesanisaicharan)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kesani-sai-charan-28a70328a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Kesanisaicharan" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kesanisaicharan&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kesanisaicharan&label=Profile%20views&color=00F7FF&style=flat" alt="profile views" />
 </p>
